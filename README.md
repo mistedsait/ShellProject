@@ -25,6 +25,12 @@ All programs are already compiled with this commands.
 To run program (task1 for example) use this command:
 ``` ./task3 ``` 
 
+## Souces that helped us
+
+[C file input and output](https://www.programiz.com/c-programming/c-file-input-output)
+[Exec family functions](https://www.geeksforgeeks.org/exec-family-of-functions-in-c/)
+[Fork system call](https://www.geeksforgeeks.org/fork-system-call/)
+
 ## Contact
 
 **Miralem Mašić** - miralem.masic@stu.ibu.edu.ba
