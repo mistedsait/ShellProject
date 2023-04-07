@@ -1,6 +1,0 @@
-task 5
-(Q1): In Unix-like operating systems, the mmap() function maps a file or device into memory so that a computer can read its data as if it were an array. It allots a section of virtual memory, maps it to a chosen file or device, and then returns a reference to the mapping's first character.
-
-(Q2): Context switching is the process of preserving and recovering an ongoing process's state to allow for the execution of another process. The operating system records the register state, program counter, and other required data for the current process during a context transition and then restores the saved state of a different process that was previously stopped.
-
-Since context changes are a relatively costly process that can affect system speed, we typically want the operating system to execute as few of them as feasible. Context switches, on the other hand, are essential for multitasking and enabling numerous programs to operate simultaneously on a single CPU. Based on the particular task and system needs, the ideal amount of context switches will be determined.
